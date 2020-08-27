@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alemannia Makaria</title>
+    <link>https://alemannia-makaria.github.io/posts/</link>
+    <description>Recent content in Posts on Alemannia Makaria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 26 Aug 2020 23:27:04 +0200</lastBuildDate>
+    
+	<atom:link href="https://alemannia-makaria.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FechtiFechti</title>
+      <link>https://alemannia-makaria.github.io/posts/mypost/</link>
+      <pubDate>Wed, 26 Aug 2020 23:27:04 +0200</pubDate>
+      
+      <guid>https://alemannia-makaria.github.io/posts/mypost/</guid>
+      <description>Als schlagende Verbindung pflegen wir die Tradition der Mensur. Das bedeutet, dass jedes Mitglied bei uns ficht.
+Das Akademische Fechten ist nicht mit dem Sportfechten gleichzustellen. Eine Mensur obliegt einem strikten Reglement, auch �Comment� genannt, das sich nach Hochschulort unterscheiden kann. Es gibt bestimmte Hiebe, die erlaubt sind, aber kein Stechen und Sto�en. Zudem bleibt der Abstand zwischen beiden Paukanten, also denjenigen, die eine Partie fechten, immer gleich. Daher stammt auch der Begriff Mensur, der sich vom lat.</description>
+    </item>
+    
+  </channel>
+</rss>
