@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://neu.alemannia-makaria.de/datenschutz/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neu.alemannia-makaria.de/impressum/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://neu.alemannia-makaria.de/zimmer/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
