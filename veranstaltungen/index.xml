@@ -5,10 +5,6 @@
     <link>https://neu.alemannia-makaria.de/veranstaltungen/</link>
     <description>Recent content in Veranstaltungen on L! Alemannia Makaria Wuerzburg im CC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    
-	<atom:link href="https://neu.alemannia-makaria.de/veranstaltungen/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>de</language><atom:link href="https://neu.alemannia-makaria.de/veranstaltungen/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
