@@ -5648,7 +5648,7 @@ code, .code {
 
 .center-img img {
   width: 90%;
-  max-width: 90%;
+  max-width: 80%;
   display: block;
   margin: auto
 }
