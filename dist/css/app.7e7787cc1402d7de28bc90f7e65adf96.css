@@ -5788,7 +5788,7 @@ pre {
   margin-bottom: 1em;
 }
 
-.facebook, .twitter, .instagram, .youtube, .github, .gitlab, .keybase, .linkedin, .medium, .mastodon, .slack, .stackoverflow, .rss {
+.facebook, .twitter, .instagram, .youtube, .github, .gitlab, .keybase, .linkedin, .medium, .mastodon, .slack, .stackoverflow {
   fill: #BABABA;
 }
 
@@ -5850,10 +5850,6 @@ pre {
   fill: #f48024;
 }
 
-.rss:hover{
-  fill: #ff6f1a;
-}
-
 /* Put your custom styles here and run `npm start` from the "src" directory on */
 
 #TableOfContents ul li {
@@ -5871,6 +5867,6 @@ pre {
 
 }
 
-.nested-links a{
+a{
   word-wrap: break-word;
 }
