@@ -5646,6 +5646,13 @@ code, .code {
   display: block;
 }
 
+.center-img img {
+  width: 90%;
+  max-width: 90%;
+  display: block;
+  margin: auto
+}
+
 .nested-links a {
   color: #357edd;
   transition: color .15s ease-in;
