@@ -1,8 +1,8 @@
 /* [ON BIG SCREEN] */
 /* Wrapper */
 #hamnav {
-  width: 80%;
-  background: none;
+  width: 100%;
+  background: #000;
   /* Optional */
   position: sticky;
   top: 0;
@@ -12,10 +12,10 @@
 #hamnav label, #hamburger { display: none; }
 
 /* Horizontal Menu Items */
-#hamitems { display: right; }
+#hamitems { display: flex; }
 #hamitems a {
-  width: 10%; /* 100% / 5 tabs = 20% */
-  padding: 5px;
+  width: 20%; /* 100% / 5 tabs = 20% */
+  padding: 10px;
   color: white;
   text-decoration: none;
   text-align: center;
@@ -28,7 +28,7 @@
 @media screen and (max-width: 768px){
   /* Show Hamburger Icon */
   #hamnav label { 
-    display: inline-flex; 
+    display: inline-block; 
     color: white;
     background: #a02620;
     font-style: normal;
@@ -39,7 +39,7 @@
   /* Break down menu items into vertical */
   #hamitems a {
     box-sizing: border-box;
-    display: table-cell;
+    display: block;
     width: 100%;
     border-top: 1px solid #333;
   }
