@@ -1,9 +1,5 @@
 User-agent: *
-Allow: /
+# robotstxt.org - if ENV production variable is false robots will be disallowed.
 
-<<<<<<< HEAD
-Sitemap: https://alemannia-makaria.de/sitemap.xml
-=======
   Allow: /
->>>>>>> 807c871... Blubb
 
