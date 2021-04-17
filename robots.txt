@@ -1,5 +1,9 @@
 User-agent: *
 Allow: /
 
+<<<<<<< HEAD
 Sitemap: https://alemannia-makaria.de/sitemap.xml
+=======
+  Allow: /
+>>>>>>> 807c871... Blubb
 
