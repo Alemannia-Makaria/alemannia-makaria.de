@@ -1,7 +1,7 @@
 const coronaContainer = document.querySelector(".corona-container");
 const coronaButton = document.querySelector(".corona-btn");
 
-coronaContainer.classList.add("active");
+//coronaContainer.classList.add("active");
 
 coronaButton.addEventListener("click", () => {
   coronaContainer.classList.remove("active");
