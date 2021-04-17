@@ -1,13 +1,13 @@
-const cookieContainer = document.querySelector(".cookie-container");
-const cookieButton = document.querySelector(".cookie-btn");
+const coronaContainer = document.querySelector(".corona-container");
+const coronaButton = document.querySelector(".corona-btn");
 
-cookieButton.addEventListener("click", () => {
-  cookieContainer.classList.remove("active");
-  localStorage.setItem("cookieBannerDisplayed", "true");
+coronaButton.addEventListener("click", () => {
+  coronaContainer.classList.remove("active");
+  localStorage.setItem("coronaBannerDisplayed", "true");
 });
 
 setTimeout(() => {
-  if (!localStorage.getItem("cookieBannerDisplayed")) {
-    cookieContainer.classList.add("active");
+  if (!localStorage.getItem("coronaBannerDisplayed")) {
+    coronaContainer.classList.add("active");
   }
 }, 1500);
